@@ -57,14 +57,39 @@ body{
 main h1{
     display: flex;
     padding-top: 89.8px;
-    color: black;
+    color: white;
     align-items: center;
     justify-content: center;
     padding: 150px;
 }
 
 main h2{
-
+    display: flex;
+    padding-top: 89.8px;
+    color: white;
+    align-items: center;
+    justify-content: center;
     padding: 300px;
-    margin: 40px;
+}
+
+main{
+    background: url('pexels-visit-greenland-108649-360912.jpg')
+    no-repeat center center fixed
+}
+
+footer{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
 }
