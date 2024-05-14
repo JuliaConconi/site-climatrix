@@ -50,7 +50,9 @@ nav a:hover {
 }
 
 body{
-
+    background-image: url(../img/backgroundindex.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: azure;
 }
 
@@ -75,6 +77,13 @@ main h2{
 main{
     background: url('pexels-visit-greenland-108649-360912.jpg')
     no-repeat center center fixed
+}
+
+#img_fundo{
+
+    margin-top: 5px;
+    padding: 0;
+
 }
 
 footer{
