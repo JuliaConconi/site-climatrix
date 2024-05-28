@@ -55,7 +55,7 @@ body{
 
 main{
     font-size: 2em;
-    font-weight: bold;
+    font-weight: 400;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -69,7 +69,7 @@ main{
 }
 
 h1{
-    padding: 20px;
+    padding: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -83,7 +83,8 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 23px;
+    font-size: 22px;
+    text-decoration: none;
     
 }
 
@@ -115,20 +116,23 @@ footer a{
 #conteudo{
     display: flex;
     max-width: 80%;
+    margin-right: 75px;
 }
 
 #atributos{
     display: grid;
-    grid-template-columns: 500px 500px;
+    grid-template-columns: 600px 600px;
     gap: 50px;
-    padding: 50px;
-    margin-top: 25px;
+    padding: 30px;
+    margin-top: 30px;
+    
 }
 
 .atributo{
     width: 100%;
     font-size: 20px;
     border-radius: 10px;
-    background-color: rgba(60, 89, 253, 0.427);
+    background-color: rgba(72, 108, 180, 0.507);
     padding: 15px;
+   
 }
