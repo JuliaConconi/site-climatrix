@@ -66,7 +66,7 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin-top: 90px;
-    margin-left: 30px;
+    margin-left: 60px;
 }
 .membro img{
     width: 200px;
@@ -88,4 +88,8 @@ footer a{
     font-weight: bold;
     font-size: 18px;
     text-transform: uppercase;
+}
+p{
+    font-weight: lighter;
+    
 }
