@@ -98,7 +98,7 @@ footer a{
     color: white; 
 } 
 #conteudo p{
-    font-size: 22px;
+    font-size: 24px;
 }
 
 #prototipo{
@@ -119,7 +119,7 @@ footer a{
     justify-content: space-between;
     float: right;
     margin-left: 200px;
-    margin-top: -124px;
+    margin-top: -184px;
     border-radius: 5px;
 }
 
