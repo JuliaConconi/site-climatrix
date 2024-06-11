@@ -65,10 +65,23 @@ body{
     margin-right: 40px;
     border-radius: 50%;
     overflow: hidden;
-    margin-top: 90px;
+    margin-top: 150px;
+    margin-left: 60px;
+}
+.membro2{
+    margin-right: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 100px;
     margin-left: 60px;
 }
 .membro img{
+    margin-top: 100;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.membro2 img{
     width: 200px;
     height: 200px;
     object-fit: cover;
@@ -93,4 +106,8 @@ footer a{
 p{
     font-weight: lighter;
     
+}
+
+.icon-insta{
+    display: flex;
 }
