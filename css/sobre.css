@@ -99,12 +99,13 @@ footer a{
 } 
 
 #prototipo{
-    height: 350px;
+    height: 200px;
     width: auto;
     display: block;
     justify-content: space-between;
     float: right;
     margin-left: 200px;
+    margin-top: -75px;
 }
 
 #conteudo{
